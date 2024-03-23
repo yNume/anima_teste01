@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T23:40:54.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="g8BWC4uoIMTK1UXKCHqf" version="24.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-23T00:02:00.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="R2vbfKiFdHPoPeEasZFr" version="24.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1100" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="299.5" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PIRuNnDQflRtROCfLTcZ-7" value="login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310.75" y="100" width="96" height="40" as="geometry" />
+          <mxGeometry x="310.75" y="120" width="89.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PIRuNnDQflRtROCfLTcZ-10" value="confirmação de venda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299.5" y="390" width="110" height="28.97" as="geometry" />
@@ -61,7 +61,7 @@
             <mxPoint x="310" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PIRuNnDQflRtROCfLTcZ-18" value="cadastro&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PIRuNnDQflRtROCfLTcZ-18" value="cadastrar usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310.75" y="60" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PIRuNnDQflRtROCfLTcZ-25" value="compra de carro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
